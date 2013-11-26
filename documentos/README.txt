@@ -1,0 +1,1 @@
+Este folder solo debe contener documentos ya sean de diseño o de expliacion de flujos.
